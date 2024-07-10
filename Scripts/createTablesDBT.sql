@@ -13,11 +13,14 @@ CREATE TABLE estado(--LISTO
     nombre_estado VARCHAR(50) NOT NULL
 );
 
+COMMENT ON COLUMN estado.id_estado AS 'Pendiente = 1, Confirmada = 2, Anulada = 3'
+
 CREATE TABLE sexo(--LISTO
     id_sexo SERIAL PRIMARY KEY,
     nombre_sexo VARCHAR(50) NOT NULL
 );
 
+COMMENT ON COLUMN sexo.id_sexo AS 'Másculino = 1, Femenino = 2, Otro = 3'
 
 --TABLA CLIENTE
 CREATE TABLE cliente(--LISTO
