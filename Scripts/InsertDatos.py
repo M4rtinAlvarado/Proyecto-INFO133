@@ -66,16 +66,16 @@ nombres_cargo = {1 : {'cargo': 'Administrador', 'servicios': []},
 
 #SERVICIOS
 dict_servicio = {
-    1: {'nombre': 'Corte de Pelo', 'descripcion': 'Corte a la moda', 'precio_servicio': 5000.0, 'duracion': 30.0, 'id_cargo': 2},
+    1: {'nombre': 'Corte de Pelo', 'descripcion': 'Corte a la moda', 'precio_servicio': 8000.0, 'duracion': 30.0, 'id_cargo': 2},
     2: {'nombre': 'Manicure', 'descripcion': 'Cuidado de uñas', 'precio_servicio': 7000.0, 'duracion': 45.0, 'id_cargo': 3},
     3: {'nombre': 'Masaje', 'descripcion': 'Masaje relajante', 'precio_servicio': 10000.0, 'duracion': 60.0, 'id_cargo': 4},
-    4: {'nombre': 'Depilacion', 'descripcion': 'Depilación completa', 'precio_servicio': 8000.0, 'duracion': 40.0, 'id_cargo': 5},
+    4: {'nombre': 'Depilacion', 'descripcion': 'Depilación completa', 'precio_servicio': 12500.0, 'duracion': 60.0, 'id_cargo': 5},
     5: {'nombre': 'Pedicure', 'descripcion': 'Cuidado de pies', 'precio_servicio': 6000.0, 'duracion': 50.0, 'id_cargo': 3},
     6: {'nombre': 'Tintura de Cabello', 'descripcion': 'Cambio de color', 'precio_servicio': 15000.0, 'duracion': 60.0, 'id_cargo': 2},
     7: {'nombre': 'Facial', 'descripcion': 'Limpieza profunda', 'precio_servicio': 12000.0, 'duracion': 60.0, 'id_cargo': 4},
     8: {'nombre': 'Peinado', 'descripcion': 'Estilo especial', 'precio_servicio': 4000.0, 'duracion': 30.0, 'id_cargo': 2},
     9: {'nombre': 'Maquillaje', 'descripcion': 'Maquillaje profesional', 'precio_servicio': 10000.0, 'duracion': 60.0, 'id_cargo': 3},
-    10: {'nombre': 'Corte barba', 'descripcion': 'Perfilado perfecto', 'precio_servicio': 20000.0, 'duracion': 15.0, 'id_cargo': 2}
+    10: {'nombre': 'Corte barba', 'descripcion': 'Perfilado perfecto', 'precio_servicio': 5000.0, 'duracion': 15.0, 'id_cargo': 2}
     
 }
 
