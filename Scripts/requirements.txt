@@ -1,0 +1,6 @@
+Datetime==3.0.0
+faker>=8.0.0
+pytz~=2023.1
+psycopg2==2.9.9
+python-dotenv==1.0.1
+schedule==1.2.2
